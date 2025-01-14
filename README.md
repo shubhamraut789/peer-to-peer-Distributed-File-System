@@ -1,6 +1,7 @@
 # Peer to Peer distributed File Systems
 To start execution:
 g++ -o track1 tracker/tracker.cpp
+
 g++ -o clit1 client/client.cpp
 
 Then to execute
